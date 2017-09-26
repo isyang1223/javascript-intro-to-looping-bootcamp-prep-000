@@ -6,5 +6,5 @@ function forLoop(){
       console.log(`I am ${i} strange loops.`);
     }
   }
-  
+
 }
